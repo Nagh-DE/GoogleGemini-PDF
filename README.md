@@ -6,5 +6,6 @@ In this tutorial, we will explore how to chat with multiple PDF files using Gemi
 ## Required packages:
 https://github.com/Nagh-DE/GoogleGemini-PDF/blob/main/requirements.txt
 
-Main python file that is used to create front-end, embed the files, and retrieve the responses:
+## Main python file 
+  (that is used to create front-end, embed the files, and retrieve the responses):
 https://github.com/Nagh-DE/GoogleGemini-PDF/blob/main/app.py
